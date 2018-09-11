@@ -1,0 +1,1 @@
+"C:\Program Files\CMake\bin\cmake.exe" -G "Visual Studio 14 2015"
